@@ -6,3 +6,7 @@ scoop install n2ns/n2n-nexus-host
 ```
 
 Manifests are updated by the n2n-nexus release workflow.
+
+## License
+
+Licensed under the [Apache License, Version 2.0](LICENSE).
