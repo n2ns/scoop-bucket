@@ -1,16 +1,16 @@
 {
-  "version": "0.9.5",
+  "version": "0.10.0",
   "description": "Host of n2n-nexus: lets Claude Code and Codex conversations find and message each other",
   "homepage": "https://github.com/n2ns/n2n-nexus",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/n2ns/n2n-nexus/releases/download/host-v0.9.5/n2n-nexus-host_0.9.5_windows_amd64.zip",
-      "hash": "fa63ffc841351c52c25f3c49ec085cddbce7e758d0d799f298dad83be83c8482"
+      "url": "https://github.com/n2ns/n2n-nexus/releases/download/host-v0.10.0/n2n-nexus-host_0.10.0_windows_amd64.zip",
+      "hash": "9b0676cfcc9697b7abbed5cb059040ae753a355311288e0d32b2f648ede42efc"
     },
     "arm64": {
-      "url": "https://github.com/n2ns/n2n-nexus/releases/download/host-v0.9.5/n2n-nexus-host_0.9.5_windows_arm64.zip",
-      "hash": "0162d2f611c19d16915a90ffd5dc60d9235992960fe492ab89ead4de2967a2ff"
+      "url": "https://github.com/n2ns/n2n-nexus/releases/download/host-v0.10.0/n2n-nexus-host_0.10.0_windows_arm64.zip",
+      "hash": "2e0b09ccc9ef5dc6a688236669b0fd2d23b2372f7682b8af14af0eebe434af89"
     }
   },
   "bin": "n2n-nexus-host.exe",
